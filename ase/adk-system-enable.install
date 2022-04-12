@@ -1,0 +1,2 @@
+This is a app to enable printer services for adk-linux  
+"systemctl enable --now cups.service" & "systemctl enable --now avahi-daemon.service" are to enable printer services!
